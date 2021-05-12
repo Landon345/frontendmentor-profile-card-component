@@ -22,8 +22,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/i-used-flexbox-media-queries-and-backgroundimage-properties-dzc1V3ono)
-- Live Site URL: [Github Pages Link](https://landon345.github.io/frontendmentor-stats-preview-card-component/)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/awesome-profile-card-eCn2U6SXd)
+- Live Site URL: [Github Pages Link](https://landon345.github.io/frontendmentor-profile-card-component/)
 
 ## My process
 
