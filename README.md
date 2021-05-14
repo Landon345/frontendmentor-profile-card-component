@@ -93,4 +93,4 @@ body {
 
 ## Acknowledgments
 
-I complete this one on my own in about 1 hour.
+I completed this one on my own in about 1 hour.
